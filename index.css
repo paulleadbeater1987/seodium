@@ -1,0 +1,23 @@
+
+#post_form,
+#post_form div {
+    margin: 1% auto;
+}
+
+#post_form h2 {
+    text-align: center;
+}
+
+#post_form input {
+    width: 100%;
+}
+
+#submit {
+    border-radius: 5%;
+    margin: 2% auto;
+    width: 50%;
+}
+
+#bear_dance {
+    display: none;
+}
